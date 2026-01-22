@@ -6,4 +6,4 @@ This software is designed for managing students' and teachers' records, fee paym
 
 # Schema
 
-<img src="./images/tg_school.png" alt="Schema" width="300">
+<img src="./images/tg_school.png" alt="Schema" width="600">
